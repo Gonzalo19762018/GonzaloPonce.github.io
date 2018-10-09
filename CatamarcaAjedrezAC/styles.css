@@ -1,0 +1,103 @@
+.logoprincipal
+{    
+    width: 30%;
+    height: 30%;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    border:none; 
+}
+
+.imgPrincipal
+{
+    width:70%;
+    height:50;    
+    display:inline-block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h5
+{
+    background: chartreuse;
+    color: blue;    
+}
+
+h6
+{
+    background: chartreuse;
+    color: blue;
+}
+
+.comision2016
+{
+    background-color: #fafafa;
+    margin: 1rem;
+    padding: 1rem;
+    border: 2px solid #ccc;
+    /* IMPORTANTE */
+    text-align: center;
+    justify-content:center;
+}
+
+
+.comision2018
+{
+    background-color: #fafafa;
+    margin: 1rem;
+    padding: 1rem;
+    border: 2px solid #ccc;
+    /* IMPORTANTE */
+    text-align: center;
+    justify-content:center;
+}
+
+.titulocategoria
+{
+    color: white;
+    background-color:black;
+    text-align: center;
+    justify-content:center;
+}
+
+
+.titulocategoriafecha,.titulocategorialugar
+{
+    color: white;
+    background-color:black;
+    text-align: left;
+    justify-content:center;
+}
+
+.contenedor
+{
+    display: flex;
+    flex-wrap: wrap;  
+    justify-content: center;  
+    border: solid grey;
+}
+
+img
+{
+    width: 450px;
+    height: 300px;
+    margin: 10px;
+    transition: all 1s;    
+}
+
+img:hover
+{
+    transform:scale(1.1);
+}
+
+#cuerpo
+{
+    width: 70%;
+    margin: 0 auto;
+}
+
+.cuerpo
+{
+    width: 70%;
+    margin: 0 auto;
+}
